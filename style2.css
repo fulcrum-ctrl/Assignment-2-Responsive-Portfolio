@@ -1,0 +1,32 @@
+body{
+    background-image: url(./Images/cbg.jpg);
+    background-size: 100%;
+}
+#leftSide{
+    float: left;
+}
+#rightSide{
+    float: right;
+}
+.nameBar{
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}
+.email{
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}
+.entry{
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}
+.box{
+    background-color: violet;
+    padding: 10px;
+    margin:10px;
+    text-align: center;
+    size: 200px;
+}
